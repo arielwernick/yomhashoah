@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #222;
+    color: #eee;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#story-container {
+    text-align: center;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+#summary {
+    margin-top: 15px;
+}
+
+#never-forget {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#candle {
+    margin-top: 10px;
+}
+.twitter-widget-container {
+    width: 100%; /* Set the container width to 100% */
+    max-width: 600px; /* Limit the maximum width to 600px */
+    height: 400px; /* Set the height of the container */
+    margin-top: 20px; /* Add some space between the story container and the Twitter widget */
+    overflow: hidden; /* Hide the content that overflows the container */
+    position: relative; /* Set the position property to 'relative' for proper alignment */
+}
+
+.twitter-timeline {
+    position: absolute !important; /* Ensure the timeline fills the container */
+    max-height: 100% !important; /* Limit the maximum height of the timeline */
+}
+
