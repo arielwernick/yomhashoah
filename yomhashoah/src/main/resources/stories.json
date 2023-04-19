@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Joseph Bau",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrD4ueNe9RYzikjSE-8VXydXDCQJg1gLdgsg&usqp=CAU",
+    "summary": "Joseph Bau, born in 1920, was a Jewish survivor who was imprisoned at the Płaszów concentration camp. He worked as a draftsman and graphic designer, and his artistic skills helped him survive the Holocaust. After the war, he immigrated to Israel and became a successful artist and writer."
+  },
+
+  {
+    "name": "Viktor Frankl",
+    "image": "https://images.gr-assets.com/authors/1542894524p8/2782.jpg",
+    "summary": "Viktor Frankl, born in 1905 in Austria, was a Holocaust survivor, neurologist, and psychiatrist. He was imprisoned at Auschwitz and Dachau. After the war, he developed a new form of psychotherapy called logotherapy, based on his experiences during the Holocaust, and wrote the best-selling book 'Man's Search for Meaning'."
+  },
+  {
+    "name": "Otto Frank",
+    "image": "https://cdn.britannica.com/69/239769-050-D6D6C7D9/Otto-Frank-father-of-Anne-Frank-Pictured-on-July-23-1968.jpg?w=400&h=300&c=crop",
+    "summary": "Otto Frank, born in 1889 in Germany, was the father of Anne Frank and the only member of his family to survive the Holocaust. He was imprisoned at Auschwitz and later liberated. After the war, he published his daughter's diary, which became one of the most well-known accounts of the Holocaust."
+  },
+  {
+    "name": "Leon Greenman",
+    "image": "https://static.wixstatic.com/media/770eee_9fd710de550e48b98559baffe5469c90~mv2.jpg/v1/fill/w_520,h_390,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/770eee_9fd710de550e48b98559baffe5469c90~mv2.jpg",
+    "summary": "Leon Greenman, born in 1910 in London, was a British-Jewish Holocaust survivor. He was sent to Auschwitz with his wife and child, who were both murdered upon arrival. Leon survived several concentration camps and after the war, he dedicated his life to educating others about the Holocaust."
+  }
+]
